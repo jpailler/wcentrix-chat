@@ -1,7 +1,7 @@
 {
   "name": "wcentrix-app",
   "vendor": "wcentrixio",
-  "version": "0.0.1",
+  "version": "0.0.2-beta.0",
   "title": "WebCentrix Chat",
   "description": "WebCentrix Chat",
   "billingOptions": {
