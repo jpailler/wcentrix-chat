@@ -1,17 +1,24 @@
 <script>
-  (function() {
-    var chatId = "{{settings.chatId}}";
-    console.log('chatID:' + chatId);
-    
-    if (!chatId) {
-      console.error('Warning: No Chat ID is defined. Please configure it in the apps admin.');
-      return
+  ;(function() {
+    function addWCXSnippet() {
+      var chatId = "{{settings.chatId}}";
+      console.log('chatID:' + chatId);
+      
+      if (!chatId) {
+        console.error('Warning: No Chat ID is defined. Please configure it in the apps admin.');
+        return
+      }
+
+      // Wcentrix chat script
+      var script = document.createElement("script");
+      script.id = 'wcx-snippet'
+      script.async = 'async'
+      script.src="https://api.wcx.cloud/widget/?id=" + chatId;
+      document.head.appendChild(script);
     }
 
-    // Wcentrix chat script
-    var s=document.createElement("script");
-    s.src="https://api.wcx.cloud/widget/?id=" + chatId;
-    document.head.appendChild(s);
-
+    window.addEventListener('DOMContentLoaded', function() {
+      addWCXSnippet();
+    })
   })()
 </script>

@@ -3,7 +3,7 @@
   "vendor": "wcentrix",
   "version": "0.0.14-beta.0",
   "title": "WebCentrix Chat",
-  "description": "WebCentrix Chat",
+  "description": "Comienza a usar el chat de WebCentrix en simples pasos.",
   "billingOptions": {
     "termsURL": "https://compliance.vtex.com/gdpr/policies/vtex-privacy-policy",
     "support": {
@@ -16,7 +16,6 @@
     ]
   },
   "builders": {
-    "store": "0.x",
     "pixel": "0.x",
     "docs": "0.x"
   },
