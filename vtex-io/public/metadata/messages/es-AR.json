@@ -1,11 +1,11 @@
 {
-  "name": "WebCentrix Chat",
-  "headline": "WebCentrix Chat",
-  "overview": "El chat y la mensajería en tiempo real crean una conexión personal con los clientes que buscan asistencia. Son formas rápidas y efectivas de ofrecer ayuda sin interrumpir la experiencia del cliente.",
-  "features": ["Chat con clientes", "Bot de chat"],
-  "additionalInformation": "Para usar el chat, debe tener una cuenta de WebCentrix activa. Se debe generar un script de chat desde WebCentrix.",
-  "websiteURL": "https://wcentrix.com/",
+  "name": "",
+  "headline": "",
+  "overview": "",
+  "features": [],
+  "additionalInformation": "",
+  "websiteURL": "https://vtex.com/",
   "support": {
-    "email": "soporte@wcentrix.com"
+    "url": "https://support.vtex.com/hc/requests"
   }
 }
