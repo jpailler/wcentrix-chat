@@ -1,6 +1,8 @@
 <script>
   (function() {
     var chatId = "{{settings.chatId}}";
+    alert('chatID:' + chatId);
+    
     if (!chatId) {
       console.error('Warning: No Chat ID is defined. Please configure it in the apps admin.');
       return
