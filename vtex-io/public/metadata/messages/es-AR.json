@@ -1,11 +1,22 @@
 {
-  "name": "",
-  "headline": "",
-  "overview": "",
-  "features": [],
-  "additionalInformation": "",
-  "websiteURL": "https://vtex.com/",
-  "support": {
-    "url": "https://support.vtex.com/hc/requests"
+    "name": "WebCentrix Chat",
+      "headline": "WebCentrix Chat",
+    "overview": "Integre a su tienda Vtex.IO, el script de chat de WebCentrix,\\nque permitirá interactuar con bots o agentes humanos a través de chat en tiempo real",
+    "features": [
+      "Chat entre agentes humanos y visitantes",
+      "Atención automática por medio de un Chat Bot",
+      "Visibilidad según horario de negocio",
+      "Seguimiento y monitoreo en tiempo real"
+    ],
+      "additionalInformation": "Esta aplicación solo funciona con un store de VTEX.IO\\nNecesitará una cuenta activa de WebCentrix con el canal chat activo.",
+    "video": "<https://www.youtube.com/watch?v=sc1kXIyI0OM>",
+    "websiteURL": "<https://www.wcentrix.com>",
+    "support": {
+        "email": "soporte@wcentrix.com",
+        "url": "www.wcentrix.com"
+      },
+    "metricDescription": {
+      "track": "",
+      "notify": ""
+    }
   }
-}
