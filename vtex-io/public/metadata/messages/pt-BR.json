@@ -14,9 +14,5 @@
     "support": {
         "email": "soporte@wcentrix.com",
         "url": "www.wcentrix.com"
-      },
-    "metricDescription": {
-      "track": "",
-      "notify": ""
-    }
+      }
   }
