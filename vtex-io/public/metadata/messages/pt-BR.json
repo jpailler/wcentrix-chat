@@ -9,8 +9,8 @@
       "Monitoramento e rastreamento em tempo real"
     ],
       "additionalInformation": "Este aplicativo funciona apenas com uma loja VTEX.IO. \\nVocê precisará de uma conta WebCentrix ativa com o canal de bate-papo ativo.",
-    "video": "<https://www.youtube.com/watch?v=sc1kXIyI0OM>",
-    "websiteURL": "<https://www.wcentrix.com>",
+    "video": "https://www.youtube.com/watch?v=sc1kXIyI0OM",
+    "websiteURL": "https://www.wcentrix.com",
     "support": {
         "email": "soporte@wcentrix.com",
         "url": "www.wcentrix.com"

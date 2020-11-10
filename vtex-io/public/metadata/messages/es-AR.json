@@ -9,8 +9,8 @@
       "Real-time monitoring and tracking"
     ],
       "additionalInformation": "This application only works with a VTEX.IO store\\nYou will need an active WebCentrix account with the active chat channel.",
-    "video": "<https://www.youtube.com/watch?v=sc1kXIyI0OM>",
-    "websiteURL": "<https://www.wcentrix.com>",
+    "video": "https://www.youtube.com/watch?v=sc1kXIyI0OM",
+    "websiteURL": "https://www.wcentrix.com",
     "support": {
         "email": "soporte@wcentrix.com",
         "url": "www.wcentrix.com"
