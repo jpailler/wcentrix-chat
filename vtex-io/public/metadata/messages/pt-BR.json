@@ -1,18 +1,17 @@
 {
-    "name": "WebCentrix Chat",
-      "headline": "WebCentrix Chat",
-    "overview": "Integre à sua loja Vtex.IO o script de chat WebCentrix, \\nque permitirá que você interaja com bots ou agentes humanos através do chat em tempo real",
-    "features": [
-      "Bate-papo entre agentes humanos e visitantes",
-      "Atenção automática através de um bot de bate-papo",
-      "Visibilidade de acordo com o horário comercial",
-      "Monitoramento e rastreamento em tempo real"
-    ],
-      "additionalInformation": "Este aplicativo funciona apenas com uma loja VTEX.IO. \\nVocê precisará de uma conta WebCentrix ativa com o canal de bate-papo ativo.",
-    "video": "https://www.youtube.com/watch?v=sc1kXIyI0OM",
-    "websiteURL": "https://www.wcentrix.com",
-    "support": {
-        "email": "soporte@wcentrix.com",
-        "url": "https://www.wcentrix.com"
-      }
+  "name": "WebCentrix Chat",
+  "headline": "Integre um webchat e interaja em tempo real com seus clientes através de bots ou agentes humanos",
+  "overview": "Integre à sua loja VTEX IO o script de chat WebCentrix, que permitirá que seus clientes interajam com bots ou agentes humanos através do chat em tempo real",
+  "features": [
+    "Bate-papo entre agentes humanos e visitantes",
+    "Atenção automática através de um bot de bate-papo",
+    "Visibilidade de acordo com o horário comercial",
+    "Monitoramento e rastreamento em tempo real"
+  ],
+  "additionalInformation": "Este aplicativo funciona apenas com uma loja VTEX IO. \\nVocê precisará de uma conta WebCentrix ativa com o canal de bate-papo ativo.",
+  "video": "https://www.youtube.com/watch?v=sc1kXIyI0OM",
+  "websiteURL": "https://www.wcentrix.com",
+  "support": {
+    "email": "soporte@wcentrix.com"
   }
+}
