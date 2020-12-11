@@ -1,7 +1,7 @@
 {
   "name": "wcentrix-chat",
   "vendor": "wcentrix",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "title": "WebCentrix Chat",
   "description": "Comienza a usar el chat de WebCentrix en simples pasos.",
   "billingOptions": {
