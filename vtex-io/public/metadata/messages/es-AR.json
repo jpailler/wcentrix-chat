@@ -1,7 +1,7 @@
 {
   "name": "WebCentrix Chat",
-  "headline": "Integre un webchat, e interactúe en tiempo real con sus clientes a través de bots o agentes humanos",
-  "overview": "Integre a su tienda VTEX IO, el script de chat de WebCentrix, que permitirá a sus clientes interactuar con bots o agentes humanos a través de chat en tiempo real",
+  "headline": "Integre un webchat, e interactúe en tiempo real con sus clientes a través de bots o agentes humanos.",
+  "overview": "Integre a su tienda VTEX IO, el script de chat de WebCentrix, que permitirá a sus clientes interactuar con bots o agentes humanos a través de chat en tiempo real.",
   "features": [
     "Chat entre agentes humanos y visitantes",
     "Atención automática por medio de un Chat Bot",
